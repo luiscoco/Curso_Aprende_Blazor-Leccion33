@@ -4,9 +4,9 @@
 
 1. Abrir la aplicación con Visual Studio 2022 o VSCode
 
-2. El evento NavigationManager.LocationChanged te permite gestionar el evento que se genera al cambiar una ruta, es decir, su URL. Por ejemplo, mediante los botones de navegación del buscador de internet, mediante código o mediante la introducción de una nueva URL en la barra de búsqueda del navegador de Internet.
+2. El evento **NavigationManager.LocationChanged** te permite gestionar el evento que se genera al cambiar una ruta, es decir, su URL. Por ejemplo, mediante los botones de navegación del buscador de internet, mediante código o mediante la introducción de una nueva URL en la barra de búsqueda del navegador de Internet.
 
-3. Este es un ejemplo para ilustrar el eento NavigationManager.LocationChanged
+5. Este es un ejemplo para ilustrar el eento NavigationManager.LocationChanged
 
 ```razor
 @page "/"
