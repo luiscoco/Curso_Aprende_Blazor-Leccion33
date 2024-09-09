@@ -1,6 +1,6 @@
 # CURSO: APRENDE BLAZOR
 
-# LECCIÓN 33: Componente NavigationManager (Parte 4)
+# LECCIÓN 33: Servicio NavigationManager (Parte 4)
 
 1. Abrir la aplicación con Visual Studio 2022 o VSCode
 
